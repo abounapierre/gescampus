@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mnote" />
+        <module name="eureka-server" />
+        <module name="config-server" />
+        <module name="mevaluation" />
+        <module name="zuul-server" />
+        <module name="metudiant" />
+        <module name="mparametre" />
+        <module name="mdiscipline" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="mdiscipline" target="1.8" />
+      <module name="metudiant" target="1.8" />
+      <module name="mevaluation" target="1.8" />
+      <module name="mnote" target="1.8" />
+      <module name="mparametre" target="1.8" />
+      <module name="zuul-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="config-server" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="mdiscipline" options="-parameters" />
+      <module name="metudiant" options="-parameters" />
+      <module name="mevaluation" options="-parameters" />
+      <module name="mnote" options="-parameters" />
+      <module name="mparametre" options="-parameters" />
+      <module name="zuul-server" options="-parameters" />
+    </option>
+  </component>
+</project>

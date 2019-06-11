@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mdiscipline" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/metudiant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mevaluation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mnote" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mparametre" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul-server" charset="UTF-8" />
+  </component>
+</project>

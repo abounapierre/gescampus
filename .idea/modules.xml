@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-repo/config-server-repo.iml" filepath="$PROJECT_DIR$/config-server-repo/config-server-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mdiscipline/mdiscipline.iml" filepath="$PROJECT_DIR$/mdiscipline/mdiscipline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metudiant/metudiant.iml" filepath="$PROJECT_DIR$/metudiant/metudiant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mevaluation/mevaluation.iml" filepath="$PROJECT_DIR$/mevaluation/mevaluation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mnote/mnote.iml" filepath="$PROJECT_DIR$/mnote/mnote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mparametre/mparametre.iml" filepath="$PROJECT_DIR$/mparametre/mparametre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+    </modules>
+  </component>
+</project>
